@@ -5,9 +5,7 @@ This project was developped using the Altera Quartus II Software (v9.1 SP2).
 
 It was used the 5MP TRDB-D5M camera module. Then using the Demo project for the camera (provided in the CD of the Board), it was developped some modules to process the image data and perform filtering.
 
-![GitHub Logo](high_level_architecture.png)
-Format: ![Alt Text](high_level_architecture.png)
-![Alt text](high_level_architecture.png)
+![Alt text](high_level_architecture.png "Real Time Sobel Edge Detector high Level Architecture")
 
 The filtered image is provided using a VGA monitor connected to the board. 
 
