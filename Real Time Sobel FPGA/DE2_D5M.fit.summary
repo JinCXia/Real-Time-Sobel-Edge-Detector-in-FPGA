@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Jul 09 18:31:29 2018
+Quartus II Version : 9.1 Build 350 03/24/2010 SP 2 SJ Web Edition
+Revision Name : DE2_D5M
+Top-level Entity Name : MAIN
+Family : Cyclone II
+Device : EP2C35F672C6
+Timing Models : Final
+Total logic elements : 2,217 / 33,216 ( 7 % )
+    Total combinational functions : 1,839 / 33,216 ( 6 % )
+    Dedicated logic registers : 1,283 / 33,216 ( 4 % )
+Total registers : 1298
+Total pins : 425 / 475 ( 89 % )
+Total virtual pins : 0
+Total memory bits : 93,136 / 483,840 ( 19 % )
+Embedded Multiplier 9-bit elements : 0 / 70 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
