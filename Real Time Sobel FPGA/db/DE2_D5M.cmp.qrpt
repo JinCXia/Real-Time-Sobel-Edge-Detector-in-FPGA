@@ -1,8 +1,0 @@
-[||Compilation Report||Timing Analyzer||Clock Setup: 'CLOCK_50']
-COLUMN_WIDTHS=183L,253L,250L,730L,269L,58L,88L,98L,85L,
-OUTPUT_SECTION=1
-PAGE_ORIENTATION=0
-[||Compilation Report||Timing Analyzer||Clock Setup: 'DE2_D5M:inst|sdram_pll:u6|altpll:altpll_component|_clk2']
-COLUMN_WIDTHS=183L,253L,263L,716L,269L,269L,88L,98L,85L,
-OUTPUT_SECTION=1
-PAGE_ORIENTATION=0
