@@ -11,10 +11,7 @@ The filtered image is provided using a VGA monitor connected to the board.
 
 Using the switches and keys of the board, it's possible to change the output data:
 > SW[0] - Grey Scale Mode
-
 > SW[1] - Sobel Mode
-
 > Key[2] - Stop Camera
-
 > Key[3] - Stream Mode
 
